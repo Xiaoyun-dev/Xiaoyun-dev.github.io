@@ -1,0 +1,28 @@
+---
+title: "Behind ? the Cat"
+image: profile.jpg
+about:
+  template: jolla
+  links:
+    - icon: pure
+      text: Pure
+      href: https://www.lancaster.ac.uk/psychology/about-us/people/xiaoyun-chen
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/xiaoyun-chen-422373234/
+    - icon: github
+      text: Github
+      href: https://github.com/Xiaoyun-dev
+---
+
+I am Xiaoyun Chen.
+
+A guardian of two cats - Max and Min(nie). 
+
+Trained developmental cognitive psychologist. 
+
+Slowly building my path to autism research 
+
+with a mighty heart to make a meaningful difference in what I do. 
+
+![Max (top) and Minnie (bottom)](imageAbout1.jpg){width=50%}

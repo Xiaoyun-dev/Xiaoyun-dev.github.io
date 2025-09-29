@@ -1,0 +1,30 @@
+project:
+  type: website
+
+website:
+  title: "Xiaoyun Chen"
+  navbar:
+    left:
+      - text: "Home"
+        file: index.qmd
+      - text: "CV"
+        file: cv.qmd
+      - text: "Blogs"
+        file: blogs.qmd
+      - text: "Team"
+        file: team.qmd
+    right:
+      - icon: pure
+        text: Pure
+        href: https://www.lancaster.ac.uk/psychology/about-us/people/xiaoyun-chen
+      - icon: linkedin
+        href: https://www.linkedin.com/in/xiaoyun-chen-422373234/
+      - icon: github
+        href: https://github.com/Xiaoyun-dev
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+
+editor: visual
+

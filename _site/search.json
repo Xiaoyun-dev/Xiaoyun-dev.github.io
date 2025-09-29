@@ -1,0 +1,51 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Behind ? the Cat",
+    "section": "",
+    "text": "I am Xiaoyun Chen.\nA guardian of two cats - Max and Min(nie).\nTrained developmental cognitive psychologist.\nSlowly building my path to autism research\nwith a mighty heart to make a meaningful difference in what I do.\n\n\n\nMax (top) and Minnie (bottom)"
+  },
+  {
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Welcome To My Blog",
+    "section": "",
+    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+  },
+  {
+    "objectID": "posts/post-with-code/index.html",
+    "href": "posts/post-with-code/index.html",
+    "title": "Inktober & something new here and now",
+    "section": "",
+    "text": "This is a post with executable code."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this blog"
+  },
+  {
+    "objectID": "blogs.html",
+    "href": "blogs.html",
+    "title": "Things I did/do/..ing or will ..",
+    "section": "",
+    "text": "Inktober & something new here and now\n\n\n\n\n\n\nnews\n\n\nart\n\n\nvision\n\n\n\n\n\n\n\n\n\nSep 29, 2025\n\n\nXiaoyun Chen\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nSep 26, 2025\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "Xiaoyun Chen",
+    "section": "",
+    "text": "![](cv.pdf){width=100% height=1000px}"
+  },
+  {
+    "objectID": "team.html",
+    "href": "team.html",
+    "title": "Xiaoyun Chen",
+    "section": "",
+    "text": "Hambel W)\n\n\n\n\n\nMalina D)\n\n\n\n\n\nMegan S)\n\n\n\n\n\nTom W)\n\n\nPrevious\n\n\n\nRose R)"
+  }
+]
