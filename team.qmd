@@ -1,16 +1,69 @@
-![Hambel W)](imageAbout1.jpg){width=20%}
+# Current Member
+
+:::: {.columns}
+::: {.column width="20%"}
+![](imageAbout1.jpg)
+:::
+
+::: {.column width="10%"}
+
+:::
+
+::: {.column width="70%"}
+Hambel W is a currently a phd student. 
+:::
+::::
 
 
-![Malina D)](imageAbout1.jpg){width=20%}
 
-![Megan S)](imageAbout1.jpg){width=20%}
+:::: {.columns}
+::: {.column width="20%"}
+![](imageAbout1.jpg)
+:::
+
+::: {.column width="10%"}
+
+:::
+
+::: {.column width="70%"}
+Malina D is a currently an undergraduate research assistant. 
+:::
+::::
 
 
-![Tom W)](imageAbout1.jpg){width=20%}
+
+:::: {.columns}
+::: {.column width="20%"}
+![](imageAbout1.jpg)
+:::
+
+::: {.column width="10%"}
+
+:::
+
+::: {.column width="70%"}
+Megan S is a currently an undergraduate research assistant. 
+:::
+::::
 
 
 
+:::: {.columns}
+::: {.column width="20%"}
+![](imageAbout1.jpg)
+:::
 
-Previous 
+::: {.column width="10%"}
 
-![Rose R)](imageAbout1.jpg){width=20%}
+:::
+
+::: {.column width="70%"}
+Tom W is a currently an undergraduate research assistant. 
+:::
+::::
+
+
+
+# Previous Member 
+
+![Rose R)]

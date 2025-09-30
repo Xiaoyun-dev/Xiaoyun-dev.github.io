@@ -1,5 +1,5 @@
 ---
-title: "Behind ? the Cat"
+title: "i Am xIaOyUn chEn"
 image: profile.jpg
 about:
   template: jolla
@@ -15,14 +15,14 @@ about:
       href: https://github.com/Xiaoyun-dev
 ---
 
-I am Xiaoyun Chen.
+behind? the cat
 
-A guardian of two cats - Max and Min(nie). 
+a guardian of two cats - Max and Min(nie)
 
-Trained developmental cognitive psychologist. 
+trained developmental cognitive psychologist
 
-Slowly building my path to autism research 
+slowly building my path to autism research 
 
-with a mighty heart to make a meaningful difference in what I do. 
+with a mighty heart to make a meaningful difference in what I do
 
 ![Max (top) and Minnie (bottom)](imageAbout1.jpg){width=50%}
